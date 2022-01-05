@@ -11,7 +11,7 @@
             "distanceRouting": "fastest",
             "distanceUnits": "metric",
             "distanceLanguage": "fr",
-            "distanceMaxAirDistanceFilter": 10000000,
+            "distanceMaxAirDistanceFilter": 1000000,
             "distanceTimeFilter": 30
         }
 
