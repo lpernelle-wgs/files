@@ -1,0 +1,18 @@
+{
+    "trackingEnable": true,
+    "foregroundLocationServiceEnable": true,
+    "modeHighFrequencyLocation": true,
+
+    "visitEnable": false,
+    
+    "distance": {
+            "distanceProvider": "woosmapDistance",
+            "distanceMode": "driving",
+            "distanceRouting": "fastest",
+            "distanceUnits": "metric",
+            "distanceLanguage": "fr",
+            "distanceMaxAirDistanceFilter": 10000000,
+            "distanceTimeFilter": 30
+        }
+
+}
