@@ -23,7 +23,7 @@
         
     "distance": {
         "distanceProvider": "woosmapDistance",
-        "distanceMode": "driving",
+        "distanceMode": "walking",
         "distanceRouting": "fastest",
         "distanceUnits": "metric",
         "distanceLanguage": "fr",
