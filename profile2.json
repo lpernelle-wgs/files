@@ -1,7 +1,7 @@
 {
     "trackingEnable": true,
     "foregroundLocationServiceEnable": false,
-    "modeHighFrequencyLocation": false
+    "modeHighFrequencyLocation": false,
 
-
+    "visitEnable": false
 }
