@@ -37,7 +37,7 @@
         "restBaseURI": "https://mcdmfc5rbyc0pxgr4nlpqqy0j-x1.rest.marketingcloudapis.com",
         "client_id": "7oalkbl4iwd8t3ultnxu9mg6",
         "client_secret": "SdwwhNxywVs2IEc3akCdAs2r",
-        "regionEnteredEventDefinitionKey": "ghjghgj"
+        "regionEnteredEventDefinitionKey": "APIEvent-2c62ebe7-1761-1311-ef26-18f04ca4f521"
     },
     
     "outOfTimeDelay": 300,
