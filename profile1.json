@@ -36,8 +36,5 @@
         "client_id": "7oalkbl4iwd8t3ultnxu9mg6",
         "client_secret": "SdwwhNxywVs2IEc3akCdAs2r",
         "regionEnteredEventDefinitionKey": ""
-    },
-    
-    "outOfTimeDelay": 300,
-    "dataDurationDelay": 30
+    }
 }
