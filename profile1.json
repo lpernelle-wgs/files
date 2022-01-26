@@ -19,8 +19,6 @@
         "searchAPIDistanceFilter": 100,
         "searchAPIRefreshDelayDay": 1
     },
-
-    "distanceAPIEnable": false,
     
     "distance": {
         "distanceProvider": "woosmapTraffic",
