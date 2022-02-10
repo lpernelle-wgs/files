@@ -9,7 +9,6 @@
     "classificationEnable": false,
     "creationOfZOIEnable": false,
 
-
     "currentLocationTimeFilter": 0,
     "currentLocationDistanceFilter": 0,
     "accuracyFilter": 100,
@@ -21,6 +20,8 @@
         "searchAPIDistanceFilter": 100,
         "searchAPIRefreshDelayDay": 1
     },
+
+    "distanceAPIEnable": false,
     
     "distance": {
         "distanceProvider": "woosmapDistance",
@@ -30,12 +31,5 @@
         "distanceLanguage": "fr",
         "distanceMaxAirDistanceFilter": 1000000,
         "distanceTimeFilter": 30
-    },
-    
-    "sfmcCredentials": {
-        "authenticationBaseURI": "https://mcdmfc5rbyc0pxgr4nlpqqy0j-x1.auth.marketingcloudapis.com",
-        "restBaseURI": "https://mcdmfc5rbyc0pxgr4nlpqqy0j-x1.rest.marketingcloudapis.com",
-        "client_id": "7oalkbl4iwd8t3ultnxu9mg6",
-        "client_secret": "SdwwhNxywVs2IEc3akCdAs2r"
     }
 }
