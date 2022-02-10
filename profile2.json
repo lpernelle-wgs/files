@@ -32,8 +32,5 @@
         "distanceLanguage": "fr",
         "distanceMaxAirDistanceFilter": 1000000,
         "distanceTimeFilter": 30
-    },
-    
-    "outOfTimeDelay": 300,
-    "dataDurationDelay": 30
+    }
 }
