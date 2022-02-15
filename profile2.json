@@ -36,8 +36,8 @@
     
     "sfmcCredentials":
     {
-        "authenticationBaseURI": "https://mcdmfc5rbyc0pxgr4nlpqqy0j-x1.rest.marketingcloudapis.com/",
-        "restBaseURI": "https://mcdmfc5rbyc0pxgr4nlpqqy0j-x1.auth.marketingcloudapis.com/",
+        "authenticationBaseURI": "https://mcdmfc5rbyc0pxgr4nlpqqy0j-x1.rest.marketingcloudapis.com",
+        "restBaseURI": "https://mcdmfc5rbyc0pxgr4nlpqqy0j-x1.auth.marketingcloudapis.com",
         "client_id": "7oalkbl4iwd8t3ultnxu9mg6",
         "client_secret": "SdwwhNxywVs2IEc3akCdAs2r",
         "regionEnteredEventDefinitionKey": "APIEvent-a62d18b1-0a6a-bc14-cbfd-562328220e79"
